@@ -1,0 +1,48 @@
+body{
+    background-image: url(page22.jpg);
+    background-size: cover;
+}
+H4{
+    color:aliceblue;
+    font-family: oblique;
+}
+H1{
+    color:aliceblue;
+    font-family: oblique;
+}
+.one{
+    border-radius: 10%;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 3;
+}
+.two{
+    border-radius: 10%;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 3;
+}
+.three{
+    border-radius: 10%;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 3;
+}
+.four{
+    border-radius: 10%;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 3;
+}
+.five{
+    border-radius: 10%;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 3;
+}
+.six{
+    border-radius: 10%;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 3;
+}
